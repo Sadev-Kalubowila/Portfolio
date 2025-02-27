@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Senior XR|VR Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Mediwave (Pvt) Ltd, Sri Lanka</h4>
             <p>
-              Developed the world's first fully functional connected ambulance solution for the National Ambulance Service using Microsoft HoloLens 2, Vuzix Smart Glasses, and Azure services.
+              Developed the world's first fully functional 5G-connected ambulance solution powered by Mixed Reality and AI using Microsoft HoloLens 2, Vuzix Smart Glasses, and Azure services enabling real-time communication and advanced medical data visualization. Served as Team Lead and Scrum master, earning the "Transformer of the Month" award for outstanding contribution.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -35,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Software Engineer- Unity3D</h3>
             <h4 className="vertical-timeline-element-subtitle">LKSimulations (Pvt) Ltd, Sri Lanka</h4>
             <p>
-              Developed various AR & VR applications from marker-based, markerless,web-bassed and social media AR,etc using Meta Quest VR headsets and Leap Motion controllers.
+              Developed various AR & VR applications from marker-based, markerless,web-bassed and social media AR Filters,etc using Meta Quest VR headsets and Leap Motion controllers.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -59,7 +59,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Training Electronics Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">A&T Labs (Pvt) Ltd, Sri Lanka</h4>
             <p>
-              Worked on various electronics and research related projects.
+              Worked on various research related projects ranging AR,electronincs,3D modeling, industrial monitoring, hardware/software/firmware developments, etc.
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>

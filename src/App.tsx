@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom'
 import {
   Main,
   Timeline,
@@ -10,6 +11,7 @@ import {
 } from "./components";
 import FadeIn from './components/FadeIn';
 import './index.scss';
+import Project1 from './components/Projects/pages/Project1'
 
 function App() {
     const [mode, setMode] = useState<string>('dark');
@@ -27,17 +29,30 @@ function App() {
       }, []);
 
     return (
-    <div className={`main-container ${mode === 'dark' ? 'dark-mode' : 'light-mode'}`}>
-        <Navigation parentToChild={{mode}} modeChange={handleModeChange}/>
+        <Router>
+      <div className={`main-container ${mode === 'dark' ? 'dark-mode' : 'light-mode'}`}>
+        <Navigation parentToChild={{ mode }} modeChange={handleModeChange} />
         <FadeIn transitionDuration={700}>
-            <Main/>
-            <Expertise/>
-            <Timeline/>
-            <Project/>
-            <Contact/>
+          <Routes>
+            <Route path="/project1" element={<Project1 />} />
+            {/* Add more routes as needed */}
+            <Route
+              path="/"
+              element={
+                <>
+                  <Main />
+                  <Expertise />
+                  <Timeline />
+                  <Project />
+                  <Contact />
+                </>
+              }
+            />
+          </Routes>
         </FadeIn>
         <Footer />
-    </div>
+      </div>
+      </Router>
     );
 }
 

@@ -23,7 +23,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Senior XR|VR Engineer</h3>
             <h4 className="vertical-timeline-element-subtitle">Mediwave (Pvt) Ltd, Sri Lanka</h4>
             <p>
-            Developed the world's first fully functional 5G-connected ambulance solution powered by Mixed Reality and AI using Microsoft HoloLens 2, Vuzix Smart Glasses, and Azure services enabling real-time communication and advanced medical data visualization.
+            Developed the <strong>world's first</strong> fully functional 5G-connected ambulance solution powered by <strong>Mixed Reality and AI</strong> using <strong>Microsoft HoloLens 2, Vuzix Smart Glasses, and Azure services</strong> enabling real-time communication and advanced medical data visualization.
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement

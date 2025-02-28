@@ -17,54 +17,44 @@ function Project() {
         <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><h2>Connected Ambulance</h2></a>
                 <p>Developed the world's first fully functional connected ambulance solution powered by Mixed Reality and AI.</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1Inx8khapuG4iSa_fdsTtBgMF5FewwgvM/view" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1Inx8khapuG4iSa_fdsTtBgMF5FewwgvM/view" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1Inx8khapuG4iSa_fdsTtBgMF5FewwgvM/view" target="_blank" rel="noreferrer"><h2> AR-IoT Industrial Monitoring App</h2></a>
                 <p>Developed metholoody to monitor more than 200 Yarn machines using AR and IoT for one of leading fabric manufacturing factory.</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1VIAsQQQbJIb_u29tocOb6LLBrnBjkgW7/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1VIAsQQQbJIb_u29tocOb6LLBrnBjkgW7/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1VIAsQQQbJIb_u29tocOb6LLBrnBjkgW7/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Indoor Navigation</h2></a>
                 <p>Developed an indoor navigation app using Metterport Pro LIDAR camera and Vuforia SDK</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1vHayOYm1Ct-z1nT4CApUJBH5ZEd-jzbR/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1vHayOYm1Ct-z1nT4CApUJBH5ZEd-jzbR/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1vHayOYm1Ct-z1nT4CApUJBH5ZEd-jzbR/view?usp=sharing" target="_blank" rel="noreferrer"><h2>VR Restaurent Tour</h2></a>
                 <p>Developed an interective VR experience for one of leading franchising brand.</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Web-XR Virtual Gallery</h2></a>
                 <p>Developed a Web XR virtual gallery using the paintings that are painted by my father who has been passed away few years ago.</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Mazda 3 App</h2></a>
                 <p>AR application was developed for the Mazda 3 Car for visualizing interior and exterior features.</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1M9EOlroY0dbNTqPo8014_EiBnl46PO7i/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1M9EOlroY0dbNTqPo8014_EiBnl46PO7i/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1M9EOlroY0dbNTqPo8014_EiBnl46PO7i/view?usp=sharing" target="_blank" rel="noreferrer"><h2>AEC AR App</h2></a>
                 <p>Developed  AR app for my ongoing commercial building project. This application has proven invaluable in visualizing and planning the structural layout, optimizing space utilization, and refining design concepts..</p>
             </div>
             <div className="project">
-                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Other XR related Projects</h2></a>
                 <p>I have developed various immersive applications. Some of demo videos are attached here</p>
-            </div>
-            <div className="project">
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><h2>Transfer Evaluation Matrix</h2></a>
-                <p>Created an interactive CSV table generator with Java, Handlebars, and LESS. This project helps transfer students to quickly identify eligible credits.</p>
-            </div>
-            <div className="project">
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
-                <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
             </div>
         </div>
     </div>

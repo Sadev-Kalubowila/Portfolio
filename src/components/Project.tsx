@@ -14,47 +14,47 @@ import '../assets/styles/Project.scss';
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Personal Projects</h1>
+        <h1>Projects</h1>
         <div className="projects-grid">
             <div className="project">
                 <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><h2>Connected Ambulance</h2></a>
-                <p>Developed the world's first fully functional connected ambulance solution powered by Mixed Reality and AI</p>
+                <p>Developed the world's first fully functional connected ambulance solution powered by Mixed Reality and AI.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
-                <p>Designed, developed, and launched a 3D multiplayer racing game with C# and Unity. This is available on Itch.io for gamers worldwide to enjoy.</p>
+                <a href="https://drive.google.com/file/d/1Inx8khapuG4iSa_fdsTtBgMF5FewwgvM/view" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1Inx8khapuG4iSa_fdsTtBgMF5FewwgvM/view" target="_blank" rel="noreferrer"><h2> AR-IoT Industrial Monitoring App</h2></a>
+                <p>Developed metholoody to monitor more than 200 Yarn machines using AR and IoT for one of leading fabric manufacturing factory.</p>
             </div>
             <div className="project">
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://yujisatojr.itch.io/spacecraft" target="_blank" rel="noreferrer"><h2>Astro Raiders</h2></a>
-                <p>Developed and released a 2D shooting game with C# and Unity. This project is hosted on the Itch.io public marketplace.</p>
+                <a href="https://drive.google.com/file/d/1VIAsQQQbJIb_u29tocOb6LLBrnBjkgW7/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1VIAsQQQbJIb_u29tocOb6LLBrnBjkgW7/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Indoor Navigation</h2></a>
+                <p>Developed an indoor navigation app using Metterport Pro LIDAR camera and Vuforia SDK</p>
             </div>
             <div className="project">
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.datumlearn.com/" target="_blank" rel="noreferrer"><h2>Datum: Integrated Learning Platform</h2></a>
-                <p>This is an online educational platform that provides high-quality, data science-focused learning resources in the Japanese language. I created the entire platform from scratch using Ruby on Rails.</p>
+                <a href="https://drive.google.com/file/d/1vHayOYm1Ct-z1nT4CApUJBH5ZEd-jzbR/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock07} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1vHayOYm1Ct-z1nT4CApUJBH5ZEd-jzbR/view?usp=sharing" target="_blank" rel="noreferrer"><h2>VR Restaurent Tour</h2></a>
+                <p>Developed an interective VR experience for one of leading franchising brand.</p>
             </div>
             <div className="project">
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="http://www.wemanage.jp/" target="_blank" rel="noreferrer"><h2>WeManage: Real Estate Asset Management</h2></a>
-                <p>This mobile application allows realtors in Japan to securely manage their property information and view future income predictions. This app is built with Ruby on Rails and JavaScript.</p>
+                <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Web-XR Virtual Gallery</h2></a>
+                <p>Developed a Web XR virtual gallery using the paintings that are painted by my father who has been passed away few years ago.</p>
             </div>
             <div className="project">
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.byuh.edu/covid-19-case-management" target="_blank" rel="noreferrer"><h2>COVID-19 Case Management</h2></a>
-                <p>Built official charts for COVID/vaccination tracking for an educational institution using JavaScript and the Google Sheets API v4. The dashboard served the university's leadership in their decision-making processes.</p>
+                <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Mazda 3 App</h2></a>
+                <p>AR application was developed for the Mazda 3 Car for visualizing interior and exterior features.</p>
             </div>
             <div className="project">
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://github.com/yujisatojr/multi-reg-analysis" target="_blank" rel="noreferrer"><h2>Multiple Regression Property Analysis</h2></a>
-                <p>Analyzed the real estate market in Japan and predicted property prices by implementing statistical methods such as OLS and multi-regression analysis. This project leveraged Python and various libraries such as Pandas, NumPy, Matplotlib, and Scikit-Learn.</p>
+                <a href="https://drive.google.com/file/d/1M9EOlroY0dbNTqPo8014_EiBnl46PO7i/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock04} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1M9EOlroY0dbNTqPo8014_EiBnl46PO7i/view?usp=sharing" target="_blank" rel="noreferrer"><h2>AEC AR App</h2></a>
+                <p>Developed  AR app for my ongoing commercial building project. This application has proven invaluable in visualizing and planning the structural layout, optimizing space utilization, and refining design concepts..</p>
             </div>
             <div className="project">
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://holokai.byuh.edu/programs-of-study" target="_blank" rel="noreferrer"><h2>Programs of Study</h2></a>
-                <p>Designed and developed a custom component for a CMS-based platform (e.g., 'Brightspot') using Java, Handlebars, and LESS. University students can find their majors of interest through this module.</p>
+                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock03} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Other XR related Projects</h2></a>
+                <p>I have developed various immersive applications. Some of demo videos are attached here</p>
             </div>
             <div className="project">
                 <a href="https://hookele.byuh.edu/transfer-evaluation-guidelines-and-matrix" target="_blank" rel="noreferrer"><img src={mock02} className="zoom" alt="thumbnail" width="100%"/></a>

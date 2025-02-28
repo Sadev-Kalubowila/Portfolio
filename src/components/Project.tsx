@@ -17,8 +17,8 @@ function Project() {
         <h1>Personal Projects</h1>
         <div className="projects-grid">
             <div className="project">
-                <a href="https://67c15bda2a487.site123.me/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://67c15bda2a487.site123.me/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
+                <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
+                <a href="https://drive.google.com/file/d/1GwLlF2PULSlqSd8uQUDLWd2mPeCgO2Or/view" target="_blank" rel="noreferrer"><h2>Connected Ambulance</h2></a>
                 <p>Developed the world's first fully functional connected ambulance solution powered by Mixed Reality and AI</p>
             </div>
             <div className="project">

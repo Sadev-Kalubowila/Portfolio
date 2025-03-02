@@ -75,10 +75,10 @@ function Contact() {
                 error={nameError}
                 helperText={nameError ? "Please enter your name" : ""}
                 InputProps={{
-                  style: { color: 'black' } // Ensure text inside input is visible
+                  style: { color: 'black', backgroundColor: 'white' } // Ensures text is visible
                 }}
                 InputLabelProps={{
-                  style: { color: 'black' } // Ensure label is visible
+                  style: { color: 'black' } // Ensures label is visible
                 }}
               />
               <TextField

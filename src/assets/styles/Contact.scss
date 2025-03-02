@@ -21,6 +21,29 @@
   fieldset {
     background-color: white;
   }
+
+    // Ensure text inside input fields is black
+    .MuiInputBase-input {
+      color: black !important;
+    }
+  
+    // Ensure labels are visible
+    .MuiInputLabel-root {
+      color: black !important;
+    }
+
+      // Adjust outline input styling
+  .MuiOutlinedInput-root {
+    fieldset {
+      border-color: black !important;
+    }
+    &:hover fieldset {
+      border-color: gray !important;
+    }
+    &.Mui-focused fieldset {
+      border-color: blue !important;
+    }
+  }
 }
 
 label {

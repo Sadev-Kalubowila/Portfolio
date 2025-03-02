@@ -40,6 +40,7 @@ function Project() {
                 <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock05} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://drive.google.com/file/d/1jkJN9I3TfDkkyQTAKpR6Y0nRy8w1XNgL/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Web-XR Virtual Gallery</h2></a>
                 <p>Developed a Web XR virtual gallery using the paintings that are painted by my father who has been passed away few years ago.</p>
+                <p>Experience it live: <a href="https://hemanthakalubowila-artgallery.glitch.me" target="_blank" rel="noreferrer" style={{ color: "#007bff", textDecoration: "underline", marginLeft: "5px" }}>WebXR Virtual Gallery</a></p>
             </div>
             <div className="project">
                 <a href="https://drive.google.com/file/d/1XfzY75tKHYtTCGAqQe2eQuZ2gzsT0Vpg/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock06} className="zoom" alt="thumbnail" width="100%"/></a>
@@ -53,7 +54,7 @@ function Project() {
             </div>
             <div className="project">
                 <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Other XR related Projects</h2></a>
+                <a href="https://drive.google.com/file/d/1BgOi9KtKPp17k8s64brds7odN8EmPonJ/view?usp=sharing" target="_blank" rel="noreferrer"><h2>Other XR Projects</h2></a>
                 <p>I have developed various immersive applications. Some of demo videos are attached here</p>
             </div>
         </div>

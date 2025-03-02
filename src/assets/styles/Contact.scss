@@ -21,11 +21,43 @@
   fieldset {
     background-color: white;
   }
+
+  /* Ensure text inside input fields is black */
+  .MuiInputBase-input {
+    color: black !important; /* Ensures text is visible */
+    background-color: white !important; /* Ensures background is white */
+    caret-color: black !important; /* Ensures cursor is visible */
+  }
+
+  /* Ensure placeholder text is visible */
+  .MuiInputBase-input::placeholder {
+    color: rgba(0, 0, 0, 0.6) !important; /* Placeholder text color */
+    opacity: 1 !important; /* Ensure opacity is set */
+  }
+
+  /* Ensure label text is visible */
+  .MuiInputLabel-root {
+    color: black !important;
+  }
+
+  /* Adjust outline border color */
+  .MuiOutlinedInput-root {
+    fieldset {
+      border-color: black !important;
+    }
+    &:hover fieldset {
+      border-color: gray !important;
+    }
+    &.Mui-focused fieldset {
+      border-color: blue !important;
+    }
+  }
 }
 
 label {
   font-size: 1.2rem;
   font-family: 'DomaineDispNar-Medium', sans-serif;
+  color: black !important; /* Ensure label color is visible */
 }
 
 .form-flex {

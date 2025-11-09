@@ -16,7 +16,21 @@ function Timeline() {
             className="vertical-timeline-element--work"
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
-            date="MAY 2023 - present"
+            date="APRIL 2025 - present"
+            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
+            icon={<FontAwesomeIcon icon={faBriefcase} />}
+          >
+            <h3 className="vertical-timeline-element-title">Senior XR|VR Engineer</h3>
+            <h4 className="vertical-timeline-element-subtitle">ImmersiveLabs (Pvt) Ltd, Sri Lanka</h4>
+            <p>
+            Developed the <strong>world's first</strong> fully functional 5G-connected ambulance solution powered by <strong>Mixed Reality and AI</strong> using <strong>Microsoft HoloLens 2, Vuzix Smart Glasses, and Azure services</strong> enabling real-time communication and advanced medical data visualization.
+            </p>
+          </VerticalTimelineElement>
+          <VerticalTimelineElement
+            className="vertical-timeline-element--work"
+            contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
+            contentArrowStyle={{ borderRight: '7px solid  white' }}
+            date="MAY 2023 - APRIL 2025"
             iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
